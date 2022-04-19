@@ -3,51 +3,83 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <data>
         <variable
-            name="clickListener"
-            type="android.view.View.OnClickListener" />
+            name="x"
+            type="com.rootdown.dev.nasaneorebase.data.model.remote.MediaRoot.Collection.Item.Link" />
         <variable
             name="xx"
-            type="com.rootdown.dev.nasaneorebase.data.model.remote.Media.Collection.Item.Data" />
+            type="com.rootdown.dev.nasaneorebase.data.model.remote.MediaRoot.Collection.Item.Data" />
+        <variable
+            name="viewModel"
+            type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_media.MediaViewModel" />
+        <variable
+            name="mediaItemState"
+            type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_media.MediaItemState" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="@{() -> viewModel.onItemClicked(mediaItemState)}"
         android:padding="10dp">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/card_images_media"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            app:layout_constraintBottom_toTopOf="@+id/card_details_media"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/imageViewCircleWithStroke"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@{x.href}"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"/>
+
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/card_details_media"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:onClick="@{clickListener}"
             android:layout_margin="10dp"
-            app:cardCornerRadius="16dp">
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            app:cardCornerRadius="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/card_images_media">
 
-            <androidx.constraintlayout.widget.ConstraintLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal"
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/txt_title_md"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/arr"
+                android:text="@{xx.title}"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.0">
+                app:layout_constraintTop_toBottomOf="@+id/card_images_media" />
 
-                <com.google.android.material.textview.MaterialTextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="5dp"
-                    android:layout_marginEnd="5dp"
-                    android:fontFamily="@font/arr"
-                    android:text="@{xx.title}"
-                    android:textColor="@color/colorPrimary"
-                    android:textSize="30sp"
-                    app:layout_constraintBottom_toBottomOf="parent"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
 
-            </androidx.constraintlayout.widget.ConstraintLayout>
         </com.google.android.material.card.MaterialCardView>
+
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>

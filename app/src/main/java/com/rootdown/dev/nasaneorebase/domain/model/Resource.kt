@@ -1,6 +1,6 @@
 package com.rootdown.dev.nasaneorebase.domain.model
 
-data class Resource<out T>(val stat: Status, val data: T?, val msg: String?){
+data class Resource<out T>(val status: Status, val data: T?, val message: String?){
     companion object {
         fun <T> success(data: T?): Resource<T> {
             return Resource(Status.SUCCESS, data, null)

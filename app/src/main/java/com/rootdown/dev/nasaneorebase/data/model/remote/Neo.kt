@@ -1,8 +1,10 @@
 package com.rootdown.dev.nasaneorebase.data.model.remote
 
+import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
-import java.io.Serializable
+import kotlinx.parcelize.Parcelize
 
+@Parcelize
 data class Neo(
     @SerializedName("id")
     val id: String,
@@ -15,4 +17,4 @@ data class Neo(
 
     @SerializedName("nasa_jpl_url")
     val url: String
-) : Serializable
+) : Parcelable

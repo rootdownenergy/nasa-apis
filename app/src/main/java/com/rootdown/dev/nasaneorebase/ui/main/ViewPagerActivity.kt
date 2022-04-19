@@ -33,6 +33,7 @@ class ViewPagerActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityViewPagerBinding.inflate(layoutInflater)
         val view = binding.root
+        setContentView(view)
         toolbar = binding.toolbar
         viewPager = binding.viewPager
         setSupportActionBar(toolbar)
@@ -40,7 +41,6 @@ class ViewPagerActivity : AppCompatActivity() {
         drawableTab2 = applicationContext.getDrawable(R.drawable.ic_baseline_perm_media_24)!!
         lsTabs.add(drawableTab1)
         lsTabs.add(drawableTab2)
-
         val tabLayout = binding.tabLayout
         val adapter = SectionsPagerAdapter(supportFragmentManager, lifecycle)
         viewPager.adapter = adapter
@@ -48,7 +48,6 @@ class ViewPagerActivity : AppCompatActivity() {
             tab.text = tabs[position]
             tab.icon = lsTabs[position]
         }.attach()
-        setContentView(view)
     }
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.

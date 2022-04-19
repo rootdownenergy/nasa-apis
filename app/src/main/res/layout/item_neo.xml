@@ -3,16 +3,20 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <data>
         <variable
-            name="clickListener"
-            type="android.view.View.OnClickListener" />
-        <variable
             name="xx"
             type="com.rootdown.dev.nasaneorebase.data.model.remote.Neo" />
+        <variable
+            name="viewModel"
+            type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_neo.NeoViewModel" />
+        <variable
+            name="listItemState"
+            type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_neo.NeoItemState" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="@{() -> viewModel.onItemClicked(listItemState)}"
         android:padding="10dp">
 
         <com.google.android.material.card.MaterialCardView
@@ -28,12 +32,11 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-            <com.google.android.material.imageview.ShapeableImageView
+            <androidx.appcompat.widget.AppCompatImageView
                 android:id="@+id/imageViewCircleWithStroke"
-                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerCut"
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_marginTop="10dp"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
                 android:src="@{xx.url}"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"

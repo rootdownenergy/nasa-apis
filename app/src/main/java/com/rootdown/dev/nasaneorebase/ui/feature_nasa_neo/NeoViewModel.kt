@@ -5,35 +5,52 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.rootdown.dev.nasaneorebase.data.model.remote.Feed
+import com.rootdown.dev.nasaneorebase.data.model.remote.Neo
+import com.rootdown.dev.nasaneorebase.data.model.remote.NeoFeed
 import com.rootdown.dev.nasaneorebase.data.repo.NeoRepoImpl
 import com.rootdown.dev.nasaneorebase.domain.model.Event
 import com.rootdown.dev.nasaneorebase.domain.model.Resource
+import com.rootdown.dev.nasaneorebase.domain.use_cases.GetSingleNeo
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel
 class NeoViewModel @Inject constructor(
-    private val repo: NeoRepoImpl
+    private val case: GetSingleNeo
 ) : ViewModel() {
     var count = 0
     var predaciteNum: Int = 0
-    private val _result = MutableLiveData<Event<Resource<Feed>>>()
-    val result: LiveData<Event<Resource<Feed>>> = _result
+
+    private val _itemToOpen = MutableLiveData<Event<NeoItemState>>()
+    val itemToOpen: LiveData<Event<NeoItemState>> = _itemToOpen
+    val viewState = MutableLiveData<ListViewState>()
+    private val _uiState = MutableStateFlow(LatestNeoUiState.Success(emptyList()))
+    val uiState: StateFlow<LatestNeoUiState> = _uiState
+    private val _result = MutableLiveData<Event<Resource<List<Neo>>>>()
+    val result: LiveData<Event<Resource<List<Neo>>>> = _result
     init {
         getResult()
     }
     private fun getResult(){
         _result.value = Event(Resource.loading(null))
         viewModelScope.launch {
-            val response = repo.getNeo()
-            Log.w("NET", response.toString())
-            _result.value = Event(response)
+            val response = case.getNeo()
+            Log.w("###", response.toString())
+            _result.value = Event(Resource.success(response))
         }
     }
     fun makeIds(i: Int){
         count++
         if(count<=i){makeIds(predaciteNum)}
     }
+    fun onItemClicked(itemState: NeoItemState) {
+        _itemToOpen.postValue(Event(itemState))
+    }
+}
+// Represents different states for neo screen
+sealed class LatestNeoUiState {
+    data class Success(val neo: List<Neo>): LatestNeoUiState()
+    data class Error(val e: Throwable): LatestNeoUiState()
 }

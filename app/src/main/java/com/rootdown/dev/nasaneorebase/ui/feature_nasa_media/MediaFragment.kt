@@ -7,53 +7,51 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import androidx.lifecycle.Observer
 import com.airbnb.epoxy.EpoxyRecyclerView
-import com.rootdown.dev.nasaneorebase.data.model.remote.Media
+import com.rootdown.dev.nasaneorebase.data.model.remote.MediaRoot
 import com.rootdown.dev.nasaneorebase.databinding.FragmentMediaBinding
 import com.rootdown.dev.nasaneorebase.media
-import com.rootdown.dev.nasaneorebase.neo
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class MediaFragment : Fragment() {
     private lateinit var binding: FragmentMediaBinding
     private val vm: MediaViewModel by viewModels()
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setHasOptionsMenu(true)
-    }
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
         binding = FragmentMediaBinding.inflate(inflater)
+        binding.viewModel = vm
+        binding.lifecycleOwner = viewLifecycleOwner
         val epoxyView: EpoxyRecyclerView = binding.rvMedia
-        vm.result.observe(viewLifecycleOwner, Observer {
-            it?.let {
-                val data = it.getIt()
-                Log.w("NET", data.toString())
-                if (it.handled){
-                    val ls: List<Media.Collection.Item.Data> = (data.data?.collection?.items as List<Media.Collection.Item.Data>?)!!
-                    setupEpoxy(ls,epoxyView)
-                }
+        vm.result.observe(viewLifecycleOwner) {
+            val xx = it.getIt().data?.collection?.items
+            Log.w("XXX", xx.toString())
+            if(xx != null){
+                setupEpoxy(xx,epoxyView)
             }
-        })
+        }
         return binding.root
     }
-    private fun setupEpoxy(result: List<Media.Collection.Item.Data>, epoxy: EpoxyRecyclerView){
-        val xLs = result
+    private fun setupEpoxy(ls: List<MediaRoot.Collection.Item?>, epoxy: EpoxyRecyclerView){
+        val xLs = ls
         vm.predaciteNum = xLs.size
+        val links: MutableList<MediaRoot.Collection.Item.Link> = mutableListOf()
         epoxy.withModels {
-            xLs.forEach { ii ->
-                Log.w("!!!", ii.toString())
+            xLs.forEach { xx ->
+                xx?.links?.first()?.let { links.add(it) }
+                Log.w("UIUI", xx?.data?.first().toString())
                 vm.makeIds(vm.predaciteNum)
                 media {
                     id(vm.count)
-                    xx(ii)
+                    xx(xx?.data?.first())
+                    x(xx?.links?.first())
                 }
             }
+            Log.w("UIUI", links.toString())
         }
     }
 }
