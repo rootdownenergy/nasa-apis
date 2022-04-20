@@ -31,4 +31,12 @@ object AppModule {
         service: NeoApiService
     ) = NeoRepoImpl(service) as NeoRepo
 
+    @Provides
+    @Singleton
+    fun provideDefaultDispatcher(): DefaultDispatchers {
+        return DefaultDispatchers()
+    }
+
+
+
 }

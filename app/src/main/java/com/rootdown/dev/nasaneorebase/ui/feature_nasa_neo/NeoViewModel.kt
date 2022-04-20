@@ -25,20 +25,11 @@ class NeoViewModel @Inject constructor(
     var count = 0
     var predaciteNum: Int = 0
 
-    private val _itemToOpen = MutableLiveData<Event<NeoItemState>>()
-    val itemToOpen: LiveData<Event<NeoItemState>> = _itemToOpen
-    val viewState = MutableLiveData<ListViewState>()
-    private val _uiState = MutableStateFlow(1)
-    val uiState = _uiState.asStateFlow()
-    //
-    private val _sharedFlow = MutableSharedFlow<Int>()
-    val sharedFlow = _sharedFlow.asSharedFlow()
     private val _result = MutableLiveData<Event<Resource<List<Neo>>>>()
     val result: LiveData<Event<Resource<List<Neo>>>> = _result
     init {
         getResult()
     }
-
     private fun getResult(){
         _result.value = Event(Resource.loading(null))
         viewModelScope.launch {
@@ -50,9 +41,6 @@ class NeoViewModel @Inject constructor(
     fun makeIds(i: Int){
         count++
         if(count<=i){makeIds(predaciteNum)}
-    }
-    fun onItemClicked(itemState: NeoItemState) {
-        _itemToOpen.postValue(Event(itemState))
     }
 }
 // Represents different states for neo screen

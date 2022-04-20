@@ -2,54 +2,42 @@ package com.rootdown.dev.nasaneorebase.ui.feature_creator
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.rootdown.dev.nasaneorebase.lib.helpers.DispatcherProviderHelper
-import kotlinx.coroutines.delay
+import com.rootdown.dev.nasaneorebase.data.local.entities.CreatorMediaEntity
+import com.rootdown.dev.nasaneorebase.data.local.entities.CreatorNeoEntity
+import com.rootdown.dev.nasaneorebase.data.model.remote.MediaRoot
+import com.rootdown.dev.nasaneorebase.data.model.remote.Neo
+import com.rootdown.dev.nasaneorebase.data.repo.CreatorRepoImpl
+import com.rootdown.dev.nasaneorebase.lib.helpers.DefaultDispatchers
+import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
+import javax.inject.Inject
 
-
-class CreatorViewModel (
-    private val dispatchers: DispatcherProviderHelper
+@HiltViewModel
+class CreatorViewModel @Inject constructor(
+    private val dispatchers: DefaultDispatchers,
+    private val repo: CreatorRepoImpl
 ): ViewModel() {
-    val countDownFlow = flow<Int> {
-        val startingValue = 5
-        var currentValue = startingValue
-        emit(startingValue)
-        while (currentValue > 0) {
-            delay(1111L)
-            currentValue --
-            emit(currentValue)
-        }
-    }.flowOn(dispatchers.main)
+
     private val _uiState = MutableStateFlow(0)
     val uiState = _uiState.asStateFlow()
     //
-    private val _sharedFlow = MutableSharedFlow<Int>(replay = 5)
-    val sharedFlow = _sharedFlow.asSharedFlow()
-    init {
-        viewModelScope.launch(dispatchers.main) {
-            sharedFlow.collect {
-                delay(2000L)
-                println("First Flow: the received nunm is: $it")
-            }
-        }
-        viewModelScope.launch(dispatchers.main)  {
-            sharedFlow.collect {
-                delay(3000L)
-                println("the received nunm is: $it")
-            }
-        }
-        // this is the event we are sending into the shared flow
-        squareNum(3)
-    }
-    fun squareNum(num: Int){
-        // suspends coroutine as long as all the collectors of the shared flow need to process it
-        viewModelScope.launch(dispatchers.main)  {
-            _sharedFlow.emit(num * num)
-        }
-    }
-    fun incrementCounter() {
-        _uiState.value += 1
-    }
+    private val _sharedFlowNeo = MutableSharedFlow<Neo>(replay = 1)
+    val sharedFlowNeo = _sharedFlowNeo.asSharedFlow()
+    private val _sharedFlowMedia = MutableSharedFlow<MediaRoot.Collection.Item.Data>(replay = 1)
+    val sharedFlowMedia = _sharedFlowMedia.asSharedFlow()
+    var creatorMediaFlow: Flow<List<CreatorMediaEntity>>? = null
+    var creatorNeoFlow: Flow<List<CreatorNeoEntity>>? = null
 
+    init {
+        viewModelScope.launch {
+            creatorMediaFlow = repo.getCreatorMedia()
+            creatorNeoFlow = repo.getCreatorNeo()
+        }
+    }
+}
+
+sealed class UiCreator{
+    data class UiNeoCreator(val neo: CreatorNeoEntity): UiCreator()
+    data class UiMediaCreator(val media: CreatorMediaEntity): UiCreator()
 }

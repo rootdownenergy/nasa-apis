@@ -1,5 +1,6 @@
 package com.rootdown.dev.nasaneorebase.data.local.dao
 
+import androidx.lifecycle.LiveData
 import androidx.room.*
 import com.rootdown.dev.nasaneorebase.data.local.entities.CreatorNeoEntity
 import kotlinx.coroutines.flow.Flow
@@ -22,5 +23,5 @@ interface CreatorNeoDao {
     suspend fun updateCreatorNeo(neo: CreatorNeoEntity)
 
     @Query("SELECT * FROM creator_neo WHERE neoId = :neoId")
-    fun neoById(neoId: Int): Flow<CreatorNeoEntity>
+    fun neoById(neoId: Int): LiveData<CreatorNeoEntity>
 }

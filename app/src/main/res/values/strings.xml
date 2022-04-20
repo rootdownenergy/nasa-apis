@@ -4,4 +4,6 @@
     <string name="tab_text_2">Media</string>
     <string name="light_mode">light mode</string>
     <string name="dark_mode">dark mode</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="title">TITLE</string>
 </resources>

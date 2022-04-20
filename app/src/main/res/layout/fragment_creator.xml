@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginTop="55dp"
-    tools:context="ui.feature_nasa_media.MediaFragment">
+    tools:context=".ui.feature_creator.CreatorFragment">
 
     <com.airbnb.epoxy.EpoxyRecyclerView
-        android:id="@+id/rvMedia"
+        android:id="@+id/rvCreator"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
@@ -19,13 +19,13 @@
         app:spanCount="1" />
 
     <com.google.android.material.progressindicator.CircularProgressIndicator
-        android:id="@+id/progressBarMedia"
+        android:id="@+id/progressBarCreator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:indeterminate="true"
         app:indicatorColor="@color/primaryVariant"
-        app:layout_constraintBottom_toTopOf="@+id/rvMedia"
-        app:layout_constraintEnd_toStartOf="@+id/rvMedia"
+        app:layout_constraintBottom_toTopOf="@+id/rvCreator"
+        app:layout_constraintEnd_toStartOf="@+id/rvCreator"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

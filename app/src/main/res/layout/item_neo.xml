@@ -9,14 +9,18 @@
             name="viewModel"
             type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_neo.NeoViewModel" />
         <variable
-            name="listItemState"
-            type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_neo.NeoItemState" />
+            name="clickListener"
+            type="android.view.View.OnClickListener" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="@{() -> viewModel.onItemClicked(listItemState)}"
+        android:background="#00B8D4"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
         android:padding="10dp">
 
         <com.google.android.material.card.MaterialCardView
@@ -39,6 +43,7 @@
             android:id="@+id/card_name"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:onClick="@{clickListener}"
             android:layout_margin="10dp"
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"

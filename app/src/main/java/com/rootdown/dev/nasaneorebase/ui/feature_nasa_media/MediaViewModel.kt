@@ -25,18 +25,8 @@ class MediaViewModel @Inject constructor(
 ) : ViewModel() {
     var count = 0
     var predaciteNum: Int = 0
-
-    private val _itemToOpen = MutableLiveData<Event<MediaItemState>>()
-    val itemToOpen: LiveData<Event<MediaItemState>> = _itemToOpen
-
-    val viewState = MutableLiveData<MediaViewState>()
-
-    private val _uiState = MutableStateFlow(LatestMediaUiState.Success(emptyList()))
-    val uiState: StateFlow<LatestMediaUiState> = _uiState
-
     private val _result = MutableLiveData<Event<Resource<MediaRoot>>>()
     val result: LiveData<Event<Resource<MediaRoot>>> = _result
-
     init {
         getResult()
     }
@@ -51,9 +41,6 @@ class MediaViewModel @Inject constructor(
     fun makeIds(i: Int){
         count++
         if(count<=i){makeIds(predaciteNum)}
-    }
-    fun onItemClicked(itemState: MediaItemState) {
-        _itemToOpen.postValue(Event(itemState))
     }
 }
 // Represents different states for neo screen

@@ -48,6 +48,7 @@ class ViewPagerActivity : AppCompatActivity() {
         drawableTab3 = applicationContext.getDrawable(R.drawable.ic_baseline_perm_media_24)!!
         lsTabs.add(drawableTab1)
         lsTabs.add(drawableTab2)
+        lsTabs.add(drawableTab3)
         val tabLayout = binding.tabLayout
         val adapter = SectionsPagerAdapter(supportFragmentManager, lifecycle)
         viewPager.adapter = adapter

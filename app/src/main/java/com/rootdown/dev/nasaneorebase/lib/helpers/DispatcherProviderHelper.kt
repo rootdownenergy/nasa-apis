@@ -9,7 +9,7 @@ interface DispatcherProviderHelper {
     val default: CoroutineDispatcher
 }
 
-abstract class DefaultDispatchers() : DispatcherProviderHelper {
+class DefaultDispatchers() : DispatcherProviderHelper {
     override val main: CoroutineDispatcher
         get() = Dispatchers.Main
     override val io: CoroutineDispatcher

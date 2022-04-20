@@ -24,6 +24,6 @@ interface CreatorMediaDao {
     suspend fun updateCreator(media: CreatorMediaEntity)
 
     @Query("SELECT * FROM creator_media WHERE mediaId = :mediaId")
-    fun mediaById(mediaId: Int): Flow<CreatorMediaEntity>
+    fun mediaById(mediaId: Int): LiveData<CreatorMediaEntity>
 
 }

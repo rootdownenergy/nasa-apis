@@ -12,14 +12,19 @@
             name="viewModel"
             type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_media.MediaViewModel" />
         <variable
-            name="mediaItemState"
-            type="com.rootdown.dev.nasaneorebase.ui.feature_nasa_media.MediaItemState" />
+            name="clickListener"
+            type="android.view.View.OnClickListener" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="@{() -> viewModel.onItemClicked(mediaItemState)}"
+        android:background="#00B8D4"
+        android:onClick="@{clickListener}"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
         android:padding="10dp">
 
         <com.google.android.material.card.MaterialCardView
@@ -41,9 +46,9 @@
                 android:layout_height="250dp"
                 android:layout_gravity="center"
                 android:src="@{x.href}"
-                app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"/>
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
 
 
         </com.google.android.material.card.MaterialCardView>
@@ -78,7 +83,6 @@
 
 
         </com.google.android.material.card.MaterialCardView>
-
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
