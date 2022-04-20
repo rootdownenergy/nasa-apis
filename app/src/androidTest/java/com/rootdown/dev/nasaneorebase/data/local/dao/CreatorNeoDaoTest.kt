@@ -47,7 +47,13 @@ class CreatorNeoDaoTest {
     @Test
     fun insertCreatorNeo() = runTest {
         val ls: MutableList<String> = mutableListOf("jfhpisuadh","hpiuerh")
-        val item: CreatorNeoEntity = CreatorNeoEntity(neoId = 1, id = "334234", refId = "135", name = "TESTTDD", url = "testtdd.com")
+        val item: CreatorNeoEntity = CreatorNeoEntity(
+            neoId = 1,
+            id = "334234",
+            refId = "135",
+            name = "TESTTDD",
+            url = "testtdd.com"
+        )
         dao.insertNeoItem(item)
         val allitem = dao.getNeo().asLiveData().getOrAwaitValue()
         assertThat(allitem).contains(item)
@@ -55,21 +61,63 @@ class CreatorNeoDaoTest {
     @Test
     fun getByIdCreatorNeo() = runTest {
         val ls: MutableList<String> = mutableListOf("jfhpisuadh","hpiuerh")
-        val item1: CreatorNeoEntity = CreatorNeoEntity(neoId = 1, id = "334234", refId = "135", name = "TESTTDD", url = "testtdd.com")
-        val item2: CreatorNeoEntity = CreatorNeoEntity(neoId = 2, id = "32124", refId = "2145", name = "TESTTDD", url = "testtdd.com")
-        val item3: CreatorNeoEntity = CreatorNeoEntity(neoId = 3, id = "334234534", refId = "5635", name = "TESTTDD", url = "testtdd.com")
-
+        val item1: CreatorNeoEntity = CreatorNeoEntity(
+            neoId = 1,
+            id = "334234",
+            refId = "135",
+            name = "TESTTDD",
+            url = "testtdd.com"
+        )
+        val item2: CreatorNeoEntity = CreatorNeoEntity(
+            neoId = 2,
+            id = "32124",
+            refId = "2145",
+            name = "TESTTDD",
+            url = "testtdd.com"
+        )
+        val item3: CreatorNeoEntity = CreatorNeoEntity(
+            neoId = 3,
+            id = "334234534",
+            refId = "5635",
+            name = "TESTTDD",
+            url = "testtdd.com"
+        )
+        dao.insertNeoItem(item1)
+        dao.insertNeoItem(item2)
+        dao.insertNeoItem(item3)
+        val result = dao.neoById(item2.neoId).asLiveData().getOrAwaitValue()
+        assertThat(item2.neoId).isEqualTo(item2.neoId)
     }
     @Test
     fun updateCreatorNeo() = runTest {
         val ls: MutableList<String> = mutableListOf("jfhpisuadh","hpiuerh")
-        val item: CreatorNeoEntity = CreatorNeoEntity(neoId = 1, id = "334234", refId = "135", name = "TESTTDD", url = "testtdd.com")
-
+        val item: CreatorNeoEntity = CreatorNeoEntity(
+            neoId = 1,
+            id = "334234",
+            refId = "135",
+            name = "TESTTDD",
+            url = "testtdd.com"
+        )
+        val itemMod = item.copy(neoId = 1, id = "42344", refId = "55345", name = "TEST-TDD", url = "www.testtdd.com")
+        dao.insertNeoItem(item)
+        dao.updateCreatorNeo(itemMod)
+        val result = dao.getNeo().asLiveData().getOrAwaitValue()
+        assertThat(result).doesNotContain(item)
     }
     @Test
     fun deleteCreatorNeo() = runTest {
-        val ls: MutableList<String> = mutableListOf("jfhpisuadh","hpiuerh")
-        val item: CreatorNeoEntity = CreatorNeoEntity(neoId = 1, id = "334234", refId = "135", name = "TESTTDD", url = "testtdd.com")
+        val ls: MutableList<String> = mutableListOf("jfhpisuadh", "hpiuerh")
+        val item: CreatorNeoEntity = CreatorNeoEntity(
+            neoId = 1,
+            id = "334234",
+            refId = "135",
+            name = "TESTTDD",
+            url = "testtdd.com"
+        )
+        dao.insertNeoItem(item)
+        dao.deleteNeoItem(item.neoId)
+        val result = dao.getNeo().asLiveData().getOrAwaitValue()
+        assertThat(result).doesNotContain(item)
     }
 
     @After
