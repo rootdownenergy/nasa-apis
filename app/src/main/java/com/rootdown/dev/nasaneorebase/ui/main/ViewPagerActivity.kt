@@ -10,23 +10,29 @@ import android.view.MenuItem
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
+import androidx.lifecycle.lifecycleScope
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.appbar.MaterialToolbar
 import com.google.android.material.tabs.TabLayoutMediator
 import com.rootdown.dev.nasaneorebase.R
+import com.rootdown.dev.nasaneorebase.data.model.remote.Neo
 import com.rootdown.dev.nasaneorebase.databinding.ActivityViewPagerBinding
+import com.rootdown.dev.nasaneorebase.lib.helpers.collectLatestLifeFlow
+import com.rootdown.dev.nasaneorebase.ui.feature_nasa_neo.LatestNeoUiState
+import com.rootdown.dev.nasaneorebase.ui.feature_nasa_neo.NeoViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class ViewPagerActivity : AppCompatActivity() {
-    val tabs = arrayOf("Neo", "Media")
+    val tabs = arrayOf("Neo", "Media", "Creator")
     private lateinit var drawableTab1: Drawable
     private lateinit var drawableTab2: Drawable
+    private lateinit var drawableTab3: Drawable
     private lateinit var toolbar: MaterialToolbar
     private val lsTabs: MutableList<Drawable> = mutableListOf()
-    private val vm: PageViewModel by viewModels()
     private lateinit var binding: ActivityViewPagerBinding
     private lateinit var viewPager: ViewPager2
+    private lateinit var neoLs: List<Neo>
 
     @SuppressLint("UseCompatLoadingForDrawables")
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -39,6 +45,7 @@ class ViewPagerActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
         drawableTab1 = applicationContext.getDrawable(R.drawable.ic_baseline_stars_24)!!
         drawableTab2 = applicationContext.getDrawable(R.drawable.ic_baseline_perm_media_24)!!
+        drawableTab3 = applicationContext.getDrawable(R.drawable.ic_baseline_perm_media_24)!!
         lsTabs.add(drawableTab1)
         lsTabs.add(drawableTab2)
         val tabLayout = binding.tabLayout

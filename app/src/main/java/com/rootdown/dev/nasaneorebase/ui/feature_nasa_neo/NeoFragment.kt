@@ -35,6 +35,7 @@ class NeoFragment : Fragment() {
                 setupEpoxy(ls,epoxyView)
             }
         }
+
         return binding.root
     }
     private fun setupEpoxy(ls: List<Neo>,epoxy: EpoxyRecyclerView){

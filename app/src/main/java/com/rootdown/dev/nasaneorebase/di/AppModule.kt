@@ -6,6 +6,8 @@ import com.rootdown.dev.nasaneorebase.data.repo.MediaRepo
 import com.rootdown.dev.nasaneorebase.data.repo.MediaRepoImpl
 import com.rootdown.dev.nasaneorebase.data.repo.NeoRepo
 import com.rootdown.dev.nasaneorebase.data.repo.NeoRepoImpl
+import com.rootdown.dev.nasaneorebase.lib.helpers.DefaultDispatchers
+import com.rootdown.dev.nasaneorebase.lib.helpers.DispatcherProviderHelper
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -21,7 +21,7 @@ import javax.inject.Inject
 
 @HiltViewModel
 class MediaViewModel @Inject constructor(
-    private val case: GetSingleMedia
+    private val repo: MediaRepoImpl
 ) : ViewModel() {
     var count = 0
     var predaciteNum: Int = 0
@@ -43,7 +43,7 @@ class MediaViewModel @Inject constructor(
     private fun getResult(){
         _result.value = Event(Resource.loading(null))
         viewModelScope.launch {
-            val response = case.getMedia()
+            val response = repo.searchMedia().data
             Log.w("###", response.toString())
             _result.value = Event(Resource.success(response))
         }
