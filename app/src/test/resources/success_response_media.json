@@ -1,0 +1,2823 @@
+{
+  "collection": {
+    "version": "1.0",
+    "href": "http://images-api.nasa.gov/search?q=stars",
+    "items": [
+      {
+        "href": "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/collection.json",
+        "data": [
+          {
+            "center": "GSFC",
+            "title": "Hubble Observes One-of-a-Kind Star Nicknamed ‘Nasty’",
+            "nasa_id": "hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o",
+            "media_type": "image",
+            "keywords": [
+              "Hubble",
+              "Milky Way",
+              "star"
+            ],
+            "date_created": "2015-03-21T00:00:00Z",
+            "description": "Astronomers using NASA’s Hubble Space Telescope have uncovered surprising new clues about a hefty, rapidly aging star whose behavior has never been seen before in our Milky Way galaxy. In fact, the star is so weird that astronomers have nicknamed it “Nasty 1,” a play on its catalog name of NaSt1. The star may represent a brief transitory stage in the evolution of extremely massive stars.  First discovered several decades ago, Nasty 1 was identified as a Wolf-Rayet star, a rapidly evolving star that is much more massive than our sun. The star loses its hydrogen-filled outer layers quickly, exposing its super-hot and extremely bright helium-burning core.  But Nasty 1 doesn’t look like a typical Wolf-Rayet star. The astronomers using Hubble had expected to see twin lobes of gas flowing from opposite sides of the star, perhaps similar to those emanating from the massive star Eta Carinae, which is a Wolf-Rayet candidate.   Instead, Hubble revealed a pancake-shaped disk of gas encircling the star. The vast disk is nearly 2 trillion miles wide, and may have formed from an unseen companion star that snacked on the outer envelope of the newly formed Wolf-Rayet.  Based on current estimates, the nebula surrounding the stars is just a few thousand years old, and as close as 3,000 light-years from Earth.  Credits: NASA/Hubble"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/collection.json",
+        "data": [
+          {
+            "center": "JPL",
+            "title": "Stars of Cepheus as Seen by NASA's Spitzer Space Telescope",
+            "keywords": [
+              "Nebula,star formation,star birth,Cepheus c,Cepheus b,amazing images,space images,nasa,spitzer,space,flythrough,stars,bow shock,astronomy,science,Caltech,JPL,Jet Propulsion Laboratory,IR,infrared"
+            ],
+            "nasa_id": "20190530-SPITZRf-0001-Stars of Cephus",
+            "date_created": "2019-05-30T00:00:00Z",
+            "media_type": "video",
+            "description_508": "Soar through this cosmic landscape filled with bright nebulas, as well as runaway, massive and young stars.",
+            "description": "Soar through this cosmic landscape filled with bright nebulas, as well as runaway, massive and young stars. The image comes from NASA's Spitzer Space Telescope, which sees the universe in infrared light. For more about Spitzer, visit https://www.nasa.gov/spitzer or http://www.spitzer.caltech.edu/ .   Credit: NASA-JPL/Caltech"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/20190530-SPITZRf-0001-Stars of Cephus/20190530-SPITZRf-0001-Stars of Cephus.vtt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/PIA22081/collection.json",
+        "data": [
+          {
+            "center": "JPL",
+            "title": "Tabby's Star (Illustration)",
+            "nasa_id": "PIA22081",
+            "media_type": "image",
+            "keywords": [
+              "Spitzer Space Telescope",
+              "KIC 8462852",
+              "Boyajian's Star"
+            ],
+            "date_created": "2017-10-04T00:00:00Z",
+            "description_508": "This illustration depicts a hypothetical uneven ring of dust orbiting KIC 8462852, also known as Boyajian's Star or Tabby's Star.",
+            "secondary_creator": "NASA/JPL-Caltech",
+            "description": "This illustration depicts a hypothetical uneven ring of dust orbiting KIC 8462852, also known as Boyajian's Star or Tabby's Star. Astronomers have found the dimming of the star over long periods appears to be weaker at longer infrared wavelengths of light and stronger at shorter ultraviolet wavelengths. Such reddening is characteristic of dust particles and inconsistent with more fanciful \"alien megastructure\" concepts, which would evenly dim all wavelengths of light.  By studying observations from NASA's Spitzer and Swift telescopes, as well as the Belgian AstroLAB IRIS observatory, the researchers have been able to better constrain the size of the dust particles. This places them within the range found in dust disks orbiting stars, and larger than the particles typically found in interstellar dust.  The system is portrayed with a couple of comets, consistent with previous studies that have found evidence for cometary activity within the system.  https://photojournal.jpl.nasa.gov/catalog/PIA22081"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/PIA22081/PIA22081~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/audio/Ep243_From Stars to Scans/collection.json",
+        "data": [
+          {
+            "center": "JSC",
+            "title": "HWHAP Ep243 From Stars to Scans",
+            "keywords": [
+              "Johnson",
+              "Space",
+              "Center",
+              "JSC",
+              "HWHAP",
+              "podcast",
+              "Houston",
+              "International Space Station",
+              "ISS",
+              "neutron stars",
+              "X-rays",
+              "Neutron star Interior Composition Explorer",
+              "NICER",
+              "X-ray telescope",
+              "black holes",
+              "Keith Gendreau",
+              "Rajiv Gupta",
+              "Station Explorer for X-Ray Timing and Navigation Technology",
+              "SEXTANT"
+            ],
+            "nasa_id": "Ep243_From Stars to Scans",
+            "date_created": "2022-05-06T00:00:00Z",
+            "media_type": "audio",
+            "description_508": "Full transcript in description",
+            "description": "Gary Jordan (Host): Houston, we have a podcast! Welcome to the official podcast of the NASA Johnson Space Center, Episode 243 “From Stars to Scans.” I'm Gary Jordan and I'll be your host today. On this podcast we bring in the experts, scientists, engineers, and astronauts, all to let you know what's going on in the world of human spaceflight. For more than 21 years, the International Space Station has been continuously occupied and thousands of experiments have taken place. Sometimes technologies developed for experiments on one thing can be used for an entirely different thing. And this was the thought for one doctor who was intrigued with NASA Goddard [Space Flight Center] webinar over x-ray communications, as he explains the design, originally for astrophysics, and how it could be translated into the medical field to save human lives. Dr. Rajiv Gupta, director of the Advanced X-Ray Imaging Sciences Center at Massachusetts General Hospital in Boston, is currently using a patented modulated x-ray source, or MXS, to help develop a more compact and faster CT (computerized tomography) scanner for humans. Funny enough, the MXS was developed for a stargazing experiment called NASA's Neutron Star Interior Composition Explorer, or NICER, which observes neutron stars from aboard the International Space Station. To explain more about MXS and NICER, we have Dr. Keith Gendreau, principal investigator of NICER and the Station Explorer for X-Ray Timing and Navigation Technology, or SEXTANT, from NASA's Goddard Space Flight Center, and he's talking about what's happening in space with these technologies. And of course, we also have Dr. Rajiv Gupta talking about the benefits here on Earth and in the medical field. With that, let's get right into it. Enjoy.    [Music]  Host: Raj and Keith, thanks so much for coming on Houston We Have a Podcast today.    Raj Gupta: Nice to be here.    Keith Gendreau: Yeah, thank you for having us. I'm really looking forward to talking with you and Raj.    Host: Yeah. It's, the way you guys came together is a very interesting story. This is, I think, to me, one of the more fascinating stories of all, of these technologies that have applications in space and on the ground and they're, and they're very different. So I kind of wanted to start with that story, with, before we get into the technologies themselves and do a deep dive there, let's talk about how these worlds collided. So, so Raj, I wanted to start with, with the story. I wanted to start with the story of where you were, what you were doing whenever you heard Keith's presentation that, that was the beginning of, of your worlds colliding?    Raj Gupta: Yes. I, I got this email. I mean, we get hundreds of emails every day and most of the times we just hit delete button and, and move on, but this was kind of a very interesting title about x-rays and about neutron stars and so on. And since that's so out -- I do x-rays but I don't do neutron stars -- so it was so outside my field I, I thought it would be nice to hear what this person has to say. So I registered for it and I, I listened to the, the conversation and it was fascinating. It was absolutely fascinating. So I thought, here is someone who's looking for x-rays in space and in order to test for those x-rays and the instrumentation on the ground they've built this very elaborate system, and that's something that can solve one of the problems that I'm trying to solve. So I called Keith because of that and that's how it all started.    Host: Wow, unbelievable. Keith, I'm curious to hear your perspective of the story because as I understand it this was your, your very first webinar, and it was met with some success on, on the, on its intention. Can you tell us a little bit about your perspective of, of how you guys met?    Keith Gendreau: Yeah, it was, it was my first webinar. Goddard Space Flight Center, where I work, the Technology Transfer Division asked me to do a webinar on our modulated x-ray source and, and the work that we do with x-ray timing. And, and this is my very first time doing a talk on a webinar, I had really no idea of how many people were on or who was on, you know, it was the first time I was talking and I, and I, I couldn't see the faces of people. And so it was a very unusual feeling for me at the beginning. And then, and then I, I was pleasantly surprised. It was like a day or two later I had a call from Raj, who I didn't know at the time, and he said he listened to the webinar and, and I'm really glad he called me and I'm glad that webinar happened and, and that we got together because it's been really fantastic working with, with Raj on things I hadn't really thought about before.    Host: And, and that's certainly what I wanted to explore today is, is, is those, those things that you haven't thought about before. Let's set up a, a, a foundation, though, to understand the two worlds that you are a part of that ultimately collided. Keith, we’ll, we’ll stick with you for a second. We're talking about x-rays and we're talking about neutron star, stars; what were some of the things that you were studying? What is, what is your field that you are, that you're exploring and interested in right now?    Keith Gendreau: So, so I'm, I'm an astrophysicist at NASA's Goddard Space Flight Center, and my job is to develop technologies and, and missions to understand the universe, and in particular x-rays. So I've studied physics of x-rays and making x-rays and detecting x-rays and, and what in the universe produces x-rays. And so, you know, we developed, in particular, a mission called NICER, the Neutron Star Interior Composition Explorer; I'm the principal investigator for that mission. And I can tell you more about that later. But it's an x-ray type instrument that we needed to make a new type of x-ray source to test. And that's, that's the basis of our collaboration we have.    Host: Understood. Now, now that, that, that collaboration of course, you know, was, is, is part of this, these two worlds colliding and yours of, was, was the neutron star, but I think the key here, the key phrase, the key word that you mentioned, was x-ray, and, and Raj, I believe x-rays are something that you are working on, but more from a medical perspective. Can you tell us about your area of study?    Raj Gupta: Sure. So I'm a neuroradiologist at Mass[achusetts] General Hospital and in my, during my day, and during my sort of clinical time, I look at CT scans, and, but in my lab we are doing experiments and building instrumentation which can make low-cost CT scans. And one of the projects that we had was exactly that, it was something that we've been working on for a number of years. And the way CT scans work, just for, like, lay audience, you have an x-ray source, and you have a camera on the other side from the x-ray source, and the, the body is in the middle. And you rotate this entire contraption very fast around the patient, and you acquire hundreds of individual images, and then you stitch them together and you make the, the demographic image, a 3D image. So, in the current way of doing things you essentially take one x-ray source and you spin it around and you take hundreds of pictures. The current x-ray source, you cannot pulse them. What was novel about Keith's idea was that the source was highly pulseable. You could pulse them at the speed of light, essentially, at the, at the, at the speed at which you can switch light. So that sort of got a light bulb going in my head saying, why don't we use many of Keith’s x-ray sources, put them around a ring, and then not, not spin anything. You pulse first one first, and then the next one and the next one and next one, and then you have a motion-free CT scanner. So that was my sort of thinking there. And that's when I called Keith saying, Keith, is it just a pipe dream or can we do it? And --  Host: Can you, can you take us through some –  Raj Gupta: Yeah, go ahead.   Host: Go ahead. Go ahead, Raj, go ahead.    Raj Gupta: Yeah. Only thing I was saying was that, I mean, Keith was, was, was, very, very kind; he listened to me and then he sort of said, yeah, I think we can, we can do it. And at that time I had a student working with me so I sent one of my students to work at Goddard with Keith, and the student then built the very first sort of incarnation of this, this, this source, which we were able to bring in our lab and test it and acquire pictures. And then we, then we worked for years together to, to build the first prototype of this system.    Host: Very good. That's, it's a wonderful process. And, and to, to help us to set a, a foundation of what this is, right, you're talking about this, this technology that you pulled from, from this, from this instrument that was observing neutron stars, to turn, to turn into this medical technology. Keith, help us to better understand this: let, let's visit NICER for a second, and the technology, the, mo -- I think it's modulated x-ray source -- that's inside of it, that that is what, what Raj was, and, and his students were very interested in, in using this technology. So, so what is, what is NICER and what is this x-ray machine that was inside of NICER, that, that Raj was interested in?  Keith Gendreau: OK, so the NICER and…so, the Neutron Star Interior Composition Explorer -- it's another acronym from NASA -- it's an x-ray telescope that's mounted on the outside of the International Space Station, and its job is to detect x-rays from neutron stars, but we also look at black holes, we look at regular stars, we look at comets, we look at a lot of things, but really we designed it to look at neutron stars. And what our neutron stars? Neutron stars are, are extremely dense stars in the sky. They start their life as a star that's maybe ten times more massive than our Sun, and when that star burns through all its nuclear fuel it collapses under the, the force of its own gravity and explodes in, in a, in a supernova explosion. And most of that original star becomes, you know, what makes up you and me and everything that we know about on the Earth. But you're left with a cinder of the original star that maybe weighs one to two times the mass of our Sun but it’s squeezed into something about the size of a city. So it's really, really dense matter. And what's interesting with these neutron stars is as they collapse, the magnetic field that were associated with the original star stick to the matter, and they, they, they get compressed as the neutron star compresses, and these things become the strongest magnets in the universe. And when you have strong magnets and a soup of electrons and ions around all, you know, where the star was originally, you have a, an opportunity for heating on the surface of the neutron star. And the other kind of interesting thing is, you know, the neutron star conserves angular momentum as it collapses, so if you think of a, an ice skater who's spinning, a figure skater spinning, and she pulls her arms in and she spins up faster, the same thing happens when you make a neutron star and, and some of these neutron stars are spinning hundreds of times a second. And if you can imagine, now you have these hotspots that are on the neutron stars, and they're spinning hundreds of times a second; the hotspots come into your field of view and out of your field of view as it spins around. And it turns out these hotspots emit x-rays. And so they appear to blink with extreme regularity. And so what we did was we developed a modulated x-ray source that's not inside of NICER, but we used it on the ground to calibrate NICER and understand its temporal response. You know, NASA's very risk-adverse, we like to make sure that if we're going to spend a lot of money to send something into space that it works the first time. And so the modulated x-ray source was developed to, to do just that: make sure that our instrument was going to be able to detect the pulses of x-rays that came from neutron stars and, and more than just detect them, understand the timing properties very precisely. So the MXS is a, a way of testing NICER in a way that was not possible before.    Host: So it's a, it's a novel technology then. The MXS was, was a technology to give you the confidence in, in the data that NICER was collected, but it didn't exist before, your team had to go, had to go design and build it; is that accurate?    Keith Gendreau: That's accurate. I mean, I had originally thought of making a modulated x-ray source as part of another mission called Black Hole Imager, where we wanted to build an, what's called a, an interferometer, an x-ray interferometer, which would have a bunch of different x-ray telescopes in space that would fly in formation and, and direct x-rays onto a detector spacecraft hundreds of thousands of kilometers away and inform the image of an event horizon of a black hole in x-rays. And, and we thought about one of the technologies that you might need to do relative navigation of all these spacecraft, and, and you want to, you know, occurs to me that if you want to align an x-ray interferometer you need x-ray beacons and so we thought about using an x-ray source as the beacon and, and the technology we came up for that became the modulated x-ray source, and I can tell you more about that if you’d like.   Host: Yeah, let's go into it. The modulated x-ray source, because, because Raj was talking about this is a technology that interested him from the CT scan side. So let's get into the technology itself and how it works. And, and then we'll explore its, its medical, applica, applications.    Keith Gendreau: Sure. So, you know, most x-ray sources that we use on the ground, in particular in doctor's offices and, and, and the laboratories to test x-ray detectors, are, are you know, they're either radioactive sources or they're, you know, electronic in the sense, right? So, and so, I'm, so electronic has the opportunity that you have a switch on it, that you can turn it on and off, and, and the way those electronic sources typically work is you, you generate a stream of electrons that you accelerate to an extremely high voltage and you slam those high-voltage electrons into a target. And when those electrons stop in the target, they produce x-rays, and usually a stream of electrons that, you know, produce these x-rays comes from a hot filament. So you take a piece of wire and you run some current through it until it glows red hot and some electrons essentially boil off the surface and you accelerate those. The problem with that type of source is that, when you're thinking about timing, is that the thermal characteristics of the, of the, of, of, of the filament are kind of slow. So you can't turn it on and off very quickly because, you know, it cools in a certain timescale. So what we did but, for our situation, is we decided to use photoelectrons.  The photoelectrons are produced by the photoelectric effect. So that, that's actually what Einstein, you know, got his Nobel Prize for was, you know, explaining the photoelectric effect. And this is where if you shine light onto some matter you cause electrons to escape from the atoms that are in that matter, and, and in particular escape the surface of the material that you have; those are photoelectrons. And so our modulated x-ray source as a basis wanted to use something that was controllable. So if you have light that shines on a photocathode, you generate photoelectrons and, and if you can control the light you can therefore control the photoelectrons. And, you know, that's the basis of the modulated x-ray source. There's some details with how do you make that very robust and, and powerful because, you know, round figures, you need 10,000 or more electrons hitting a target to make, you know, one x-ray that might come off the surface, so you need a lot of x-ray, a lot of electrons to generate the x-rays that you need so you need a, you know, photocathode that have a high efficiency. In our situation we use electron multipliers to kind of make the technology manageable. So we use a photocathode that generates photoelectrons, we use an electron multiplier, which multiplies those electrons, and then those electrons slam into a target at a very high voltage and therefore produce x-rays. And, and the beauty of it that you can control those x-rays as easily as you can control the light source. And if you use a light-emitting diode, or an LED, those are very easy to control.    Host: I see. OK. So, so let's go over to Raj for a second. This, this is a very interesting piece of technology, with a lot of interesting features. Raj, what about some of these features, what about this technology, was the features that you thought were the most attractive to applying it to medical technologies?    Raj Gupta: Yeah, so, so let's, let's go back to the, to the beginning. Keith described this neutron star, which is several times the size of the mass of the Sun, but it is like shrunken down into the size of a city, let's say, size of Manhattan. And it is spinning hundred times, hundreds of times, every second. And because it's magnetic, it's magnetic and its electrons are sort of bombarding into it, it is emitting x-rays just like a normal source on Earth would do. But because it is spinning we get this as pulses of x-rays on the ground. And what modulated x-ray source that Keith built does is to simulate that on the ground. Now look at the, the, the issue that I'm trying to solve. We have a CT scan, scanner, which is much lighter than the neutron star -- it is several tons of metal -- spinning several times a second, hundreds of times a second, and we are essentially acquiring x-ray images as the scanner goes around, maybe, maybe 500 times to a thousand times every second as the scanner rotates. So there's a similarity between a neutron star and a CT scanner. Essentially both of them are emitting x-ray pulses several hundred times every second. And in, in one case, Keith is observing it and trying to determine the composition of the neutron star. In my case I'm using those x-ray pulses and reconstructing the inside of a body to be able to diagnose cancers and other pathologies of the body. So what my thinking was, if we could take the modulated x-ray source, which is unique in that it can be modulated as opposed to the standard thermionic source that Keith described, which can give you high amounts of x-rays but you cannot pulse them, you cannot turn them on and off, so if you could take let's say several hundred of these modulated x-ray sources that Keith built, put them in maybe one vacuum manifold, and we put them around the patient, and then we turn them sequentially on and off without spinning anything. Then we have a completely static CT scanner, which is beautiful because it's a solid-state CT scanner, there's like no spinning metal. It can be made much lighter, you, you do not have to spin all the, the machinery that drives the x-ray source and drives the detector, that can all be static. And there is another advantage to a non-spinning CT scanner: most of these CT scanners, because they spin, they're like a, a gyroscope, they are, you cannot drive, you cannot be acquiring a CT scan as you are moving because your truck would sort of spin out control if you, if you try to drive. If you put a CT scanner, let's say, on the space station, because of the rotation of the CT scanner – this several tons of metal moving around -- the space station will start spinning the other way around, because of Newton’s Third Law. So you have to have something solid-state if you're going to ever launch it in space or ever going to be, for example, acquire CT scans on a flying instrument, in, in an airplane, for example, or in a driving ambulance. And so that's another issue that a non-rotating solid state CT scanner solves. So the combination of these two technologies, very, very different from each other -- modulated x-ray source, which is, stimulating a neutron star multiplied multiple times, and, and then put on, put in a configuration of a CT scanner -- gives you a very novel conception of a CT scanner, which doesn't exist today.    Host: Very interesting. So, so can we dive into the engineering challenges then? The, the, the technology that Keith built, I believe you, you mentioned, Raj, was just the, the one and you wanted to take hundreds of them and put them around in, in a CT scan, I'm sure -- in a CT scanner that doesn't spin -- I think that's, that's got to be a, a, a challenging thing to do. So can you talk about the steps from an engineering perspective on taking this technology and actually, and actually making a, a, a functioning CT scanner out of it?    Raj Gupta: Yeah. So, the, as you said we, we have to package hundreds of them around a ring. And initially we thought, instead of making a hundred of them let's just make seven in one arc of a circle. And we configured the arc of a circle so that we will only do, let's say, a head scan, so that the dimension of our CT scanner will be just enough to fit one, one head, so maybe about 30 centimeters wide if you were to complete the ring.  And we'll make one wedge of that with seven x-ray sources. And that's a system that we jointly designed with Keith and his team. And that was the first sort of prototype that we built, and we, the first version was built at, at NASA, Keith and his team tested it, then we brought it to my lab in Boston and we coupled it with a, a detector, we had because we didn't have a full ring, we thought initially we will take the specimen and we rotate the specimen and acquire all the images, we’ll acquire seven images without moving anything and then we'll move, move the platform, rotate the platform a little bit, and then acquire another seven images. And so on. And with that we acquired our first CT scans of, I believe it was a bell pepper that we first scanned, and then we scanned like multiple, like we had a human head that we were able to scan. So, a lot of fun experiments.    Host: Very cool. Keith, from your perspective, in the development of this technology Raj was talking about the, the technology itself being tested in, in the various labs, were you able to find more application, or improvements, to the original MXS design that could, that could help in your calculations whenever you're, you're using this technology for looking at neutron stars? Have you found, you know, more space applications in this process of the technology development?    Keith Gendreau: So, like Raj said, you know, having a, a static CT scan device would be ideal for space applications, like, say, we wanted to send people to Mars, you know, this is a tool that, you know, could be very useful. You know, if you get injured on Mars you want to have this type of diagnostic capability that we have here on the Earth. You know, that same type of configuration could be used to do mineralogical science as well. So we've been working with some of the planetary physics people here at Goddard to see if the technologies we put together for, say, a CT scan, a static CT scan device, could be used to do mineralogy -- so, you know, x-ray diffraction and x-ray florescence -- so we could dual-use the hardware because, you know, sending things into space is very expensive, and we typically try to minimize the mass, so if you could dual-use things it's fantastic. But in terms of advancing the technologies, so for a lot of our laboratory work our modulated x-ray sources are, they're designed to do our sort of laboratory experiments and, and, and simulate what we see from the sky. And so the flux that we need is not super-large. When we look at x-rays from neutron stars, you know, the, the brightest x-ray sources that we look at in the sky with NICER yield, you know, you know, tens of thousands of photons per second, and, and, and a number of the very important ones that we look at yield less than a photon per second, and we do our science by integrating over long times. What Raj needed was something that was brighter, so we needed to work on how to maximize the flux of the modulated x-ray source, and that pushed us into understanding the limits of our electron multiplier and, and, and what could, you know, make that a little bit better. And, and so we, you know, we, we, we tweaked our technologies a bit, we've made it a bit brighter -- actually a lot brighter -- and in part because of the need for Raj, and this has opened up other avenues. You know, one of the things that we actually originally thought about with our modulated x-ray source is since we could modulate x-rays, perhaps we could make the modulation carry information, and so that became the genesis of a, a concept called x-ray communication, or XCOM, and the idea is to see if we could use modulated x-ray sources to transmit data in the, in, in the form of x-rays. But there are other applications. We were contacted by researchers who are interested in ion mobility spectroscopy; a group in Washington State University asked us about using MXS to, basically ionize atoms that it was sniffing, or molecules it was sniffing, from the air to see if we could ionize those, that, molecules, cause them to drift through a high voltage potential into a Faraday cup, and, and do a spectroscopy of the arrival times to identify different organic molecules. And so there's, you know, it's kind of an interesting, I'd never thought of that application before but there are other things as well, you know? We use it here at Goddard to calibrate missions, generally. There are x-ray telescopes going into space in the future that will have modulated x-ray sources in them to do in-flight calibration. And because of our collaboration that we've had with Raj, you know, these sources are generally going to be brighter. There’s some other avenues as well that we've improved, or we've changed the sources from how we normally use them as well.    Host: That's got to feel good for you guys. You know, you're, you're, you both are, are, you know, you're, you're, in your respective fields, of course, you know, Keith from, from observing stars and Raj working, you know, working on this technology for CT scan use, just the medical side of things, but Keith, what you just laid out was a number of different applications for something that you guys, I mean, maybe when you were designing the MXS you were simply just trying to solve a problem for, for making, you know, for observing neutron stars but just going through this process of working with Raj and developing the technology and understanding this, this incredible number of benefits that you just laid out for us: in-space CT scans, obser, I mean, observing, it's incredible, all, all the things you just laid out, just capturing that moment, right now, of just thinking about all the, all the different fields of science that you can touch with this, with this technology. Does, does that give you a sense of, of maybe pride or, or, you know, responsibility, maybe, as, reflecting on, just what this technology means for, for science?    Keith Gendreau: Well I…go ahead, Raj.  Raj Gupta: Go ahead, Keith. The only thing I was going to say was, most of the times during our like day to day work, we kind of stay within our groups and don't listen to podcasts and don't listen to the webinars, which, which are completely outside the field. And in retrospect, what a mistake that is, there is like so much material available and there is so many great talks and so many great groups out there; if we just kind of got out of our, our comfort zone and, and talked to people who are doing completely different things, lot of novel ideas can come out of collaboration.    Keith Gendreau: I agree with you completely, Raj. I mean I, I feel extremely fortunate that, you know, NASA, you know, has employed me as an astrophysicist. I'm doing astrophysics. A part of my job is to develop technologies and that part of my job to develop technology is allows me to interact with people like you, Raj, and, and others who are approaching totally different problems. And, and for me, it's fantastic because when you have to approach totally different problems, you have totally different ways of, of solving some of these problems. And, and I always feel that I, I'm lucky in the sense that I've learned a new way every time I talk with you. You know, you, you have a, why, why can't we do this or that? And then I go, geez, that's a really great idea, I'm going to try that. And that has applications in astrophysics. I think, you know, NASA's getting a lot of bang for the buck by having these kinds of interactions that are kind of outside of our day job, so to speak.    Host: That is certainly meaningful.    Raj Gupta: I, I feel the same way in that every time I, I've visited your lab and I've seen all the, all the cool instruments that you built, I said, my God, I mean, why can't you use this or that? For example, you showed me that the concentration mechanism: the way you actually collect the, the few x-ray photons that come from neutron star and you focus them on the detector, that instrument by itself, the static focusing arrangement that you have for x-rays, has medical applications, because one thing that we don't do in x-rays in medicine is focus them in any way. Basically, x-rays come out and there is essentially no optics for x-rays. What you've built and, and trying to conceive, the, the MXS and, and the, the NICER instrument, is not only to be able to look at the x-rays but to concentrate them. And that concentrator that you've built has, completely different from what we are talking about right now, has applications as well. So, so there are many, many such avenues of like cross-fertilization that exist in conversations like this.    Keith Gendreau: Absolutely. I, I really enjoy going in somebody else's lab; I always walk out with more than I came in with.    Host: It's so fascinating to just learn, right, to just learn different perspectives. Raj, I think that that was a, a big point that you pointed out was just, you know, you can, you're focusing on your field, but then as, as you, as you, as you bring, talk to more people, your, your world becomes bigger. And, and it's, it's definitely true for this modulated x-ray technology. I wanted to end, Raj, with you, by, by going and talking about this, this, you know, the applications into the CT scanners. Can you tell us where you are now in terms of applying it to regular practice and, and perhaps what your hopes are, or for making it a, a, a wide, wider accepted technology in the medical field?    Raj Gupta: Yeah, so we are at the stage where, what could be described as how to increase the brightness of the source. So currently, if we took the current technology, and if you wanted to make a low-power CT scanner, we have everything that we need to do that there. So for example, for soft tissues, we, we could image those soft tissues because they don't stop x-rays that much, and we are able to see through them using the amount of power that the current modulated x-ray source gives you. But if you really wanted to scale it up to human scale, where we are able to look through the cranium, we are able to look through the abdomen and the pelvis, there's a lot of bone there. So we need not milliamps of current, but hundreds of milliamps of tube current, current. So that's where we are, are trying to innovate. Can we gang together many of the modulated x-ray sources, or have multiple channeltrons which combine to give you the electron flux that is required to build the, the powerful x-ray source that we need. And that's an engineering challenge. I mean, fundamentally we have shown, it's doable, but to scale it up in an engineering sense requires resources, and that's, that's what we're trying to do.    Host: I see, very interesting. I, I'm actually going to throw in one more question, Keith, to you, and talk about, you know, what, we've talked about the benefits of world colliding and, and expanding this but, just, just ending with a sense of why, of, and, and I think you touched on this very briefly but, but to expand on it, the idea that the, the technologies that we develop for, for exploring the stars and for, and for spaceflight, how, how they can improve life on Earth, and, and this is one example, right, we're talking about it, space technology, observing stars being brought into the medical field, but just this concept of, of why that technology transfer is important and why exploration to solve problems, for, for space, can be brought down to Earth, why that, why that venture is, is important to continue.  Keith Gendreau: Sure. I mean, you know, we, with NICER on the space station, we spend a lot of time studying neutron stars, and the question comes up, why does this matter? You know, we, you know, neutron stars are, are really interesting objects in the universe and what we learn from studying those neutron stars will have direct impact on the world that we live in right now. We, our measurements of the radius and mass of neutron stars are driving nuclear physics right now. You know, how, how do neutrons compress, do they break down into quarks? You know, these are things that could lead to future forms of energy; they, they're important for a number of reasons.  The study of neutron stars themselves, so actually part of our NICER mission was something called SEXTANT, the Station Explorer for X-ray Timing and Navigation Technology, and, and what that was, was to look at a subset of neutron stars called millisecond pulsars, that pulse with a regularity that is comparable to that of atomic clocks. And, but they're, they're naturally occurring in the galaxy.  And, you know, atomic clocks form the foundation of the Global Positioning System, or GPS, that we use to navigate here on the surface of the Earth. But if we want to leave the Earth and we want to go into deep space, the outer planets and out of the solar system, GPS doesn't really work for us because our GPS constellation of satellites is the medium Earth orbit. So one of the things we did with NICER in looking at neutron stars is to measure, is actually demonstrate how we could use naturally-occurring neutron stars in space as the foundation for a, a “galactic GPS” navigation system, and we actually demonstrated it on the ISS. And we got, we could, just using pulsars, we could figure out where the ISS was to ten kilometers. And that may not sound really fantastic compared to other navigation techniques, but what's cool about this is that when we're flying past Pluto right now there is no infrastructure that could give you anywhere close to ten-kilometer resolution in the outer planets, and we’ve been able to prove that here on the ISS. What’s kind of neat about that on the Earth is that, you know, we now have an independent way of steering atomic clocks, potentially, by looking at neutron stars as sort of a cosmic, you know, timescale that we could tie to. And this, you know, time is very important for a lot of things here on the Earth, navigation primarily.    Host: Fantastic. Yeah, lots of applications. Thank you both, for, for, for walking us through this fantastic story of technology transfer and, and, and talking about the benefits in, in each of your respective worlds in, in astronomy and of course in, in the medical field. Yeah, to, to Raj and to Keith, again, thank you both for coming on Houston We Have a Podcast, this was an absolutely fascinating discussion. I learned so much. I, I was trying my best to absorb all of the, the complicated technologies that you're talking about with, with x-rays, and, and, and I think you both did a very good job of, of laying it out for, for, for someone like me to, to understand. But what's even, what's more clear to me is just the, the connection between these worlds and, and the transfer of technology and that, that to me is, is as abundantly clear on why, why that's important. So thank you both for coming on. I very much appreciate your time.    Keith Gendreau: Thank you for having us.    Raj Gupta: Thank you very much.   [Music]  Host: Hey, thanks for sticking around. Pretty cool story with Raj and Keith today, with how they met and how these two worlds collided. I thought it was very interesting. Of course, it's one of many technologies that have some story just like this. This is a pretty common story aboard the International Space Station. You can check out more stories like it at NASA.gov/ISS, be sure to check out the research and technology page from there. We talk about these technologies on this podcast quite a bit, and a lot of other topics. We have, I mean, this is Episode 243, so you can go through our entire collection in no particular order, just check out any episode that interests you at our collection at NASA.gov/podcasts. There's also many other shows across the agency that you can check out while you're there. If you want to talk to us, we're on the NASA Johnson Space Center pages of Facebook, Twitter, and Instagram; just use the hashtag #AskNASA on your favorite platform to submit an idea or ask a question, just make sure it's for us at Houston We Have a Podcast. This episode was recorded on March 22nd, 2022. Thanks to Alex Perryman, Pat Ryan, Heidi Lavelle, and Belinda Pulido for their help in the podcast, as always. Thanks to Rachel Barry and Nicole Rose in the ISS program research office for suggesting the topic, and to Jayden Jennings for helping to write today's episode. And of course, thanks again to Dr. Rajiv Gupta and Dr. Keith Gendreau for taking the time to come on the show. Give us a rating and feedback on whatever platform you are listening to us on and tell us what you think of our podcast. We'll be back next week."
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/PIA08216/collection.json",
+        "data": [
+          {
+            "center": "JPL",
+            "title": "The Moons are the Stars",
+            "nasa_id": "PIA08216",
+            "media_type": "image",
+            "keywords": [
+              "S Rings",
+              "Cassini-Huygens"
+            ],
+            "date_created": "2006-07-07T12:50:30Z",
+            "description_508": "The Moons are the Stars",
+            "secondary_creator": "NASA/JPL/Space Science Institute",
+            "description": "The Moons are the Stars"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/PIA08216/PIA08216~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/PIA11494/collection.json",
+        "data": [
+          {
+            "center": "JPL",
+            "title": "Star Companions",
+            "nasa_id": "PIA11494",
+            "media_type": "image",
+            "keywords": [
+              "S Rings",
+              "Cassini-Huygens"
+            ],
+            "date_created": "2009-05-18T12:50:15Z",
+            "description_508": "Star Companions",
+            "secondary_creator": "NASA/JPL/Space Science Institute",
+            "description": "Star Companions"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/PIA11494/PIA11494~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/video/Marshall Night Stars/collection.json",
+        "data": [
+          {
+            "center": "MSFC",
+            "title": "Marshall Night Stars",
+            "photographer": "James Bilbrey, Joe Kuner",
+            "location": "Marshall Space Flight Center",
+            "nasa_id": "Marshall Night Stars",
+            "media_type": "video",
+            "keywords": [
+              "time",
+              "lapse",
+              "marshall",
+              "MSFC",
+              "stars",
+              "starry",
+              "night"
+            ],
+            "date_created": "2019-10-22T00:00:00Z",
+            "description_508": "Time Lapse of night sky at Marshall Space Flight Center",
+            "description": "Time Lapse of night sky at Marshall Space Flight Center"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/video/Marshall Night Stars/Marshall Night Stars~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          },
+          {
+            "href": "https://images-assets.nasa.gov/video/Marshall Night Stars/Marshall Night Stars.srt",
+            "rel": "captions"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/collection.json",
+        "data": [
+          {
+            "center": "GSFC",
+            "title": "A Star-Formation Laboratory",
+            "location": "Greenbelt, MD",
+            "nasa_id": "GSFC_20171208_Archive_e001894",
+            "media_type": "image",
+            "keywords": [
+              "A Star-Formation Laboratory"
+            ],
+            "date_created": "2011-05-13T16:56:36Z",
+            "description": "The dwarf galaxy NGC 4214 is ablaze with young stars and gas clouds. Located around 10 million light-years away in the constellation of Canes Venatici (The Hunting Dogs), the galaxy's close proximity, combined with the wide variety of evolutionary stages among the stars, make it an ideal laboratory to research the triggers of star formation and evolution.  Intricate patterns of glowing hydrogen formed during the star-birthing process, cavities blown clear of gas by stellar winds, and bright stellar clusters of NGC 4214 can be seen in this optical and near-infrared image.  Observations of this dwarf galaxy have also revealed clusters of much older red supergiant stars. Additional older stars can be seen dotted all across the galaxy. The variety of stars at different stages in their evolution indicates that the recent and ongoing starburst periods are not the first, and the galaxy's abundant supply of hydrogen means that star formation will continue into the future.  This color image was taken using the Wide Field Camera 3 in December 2009.  Credit: NASA, ESA, and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration  Acknowledgment: R. O'Connell (University of Virginia) and the WFC3 Scientific Oversight Committee  <b><a href=\"http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html\" rel=\"nofollow\">NASA image use policy.</a></b>  <b><a href=\"http://www.nasa.gov/centers/goddard/home/index.html\" rel=\"nofollow\">NASA Goddard Space Flight Center</a></b> enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA’s accomplishments by contributing compelling scientific knowledge to advance the Agency’s mission.  <b>Follow us on <a href=\"http://twitter.com/NASAGoddardPix\" rel=\"nofollow\">Twitter</a></b>  <b>Like us on <a href=\"http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd\" rel=\"nofollow\">Facebook</a></b>  <b>Find us on <a href=\"http://instagram.com/nasagoddard?vm=grid\" rel=\"nofollow\">Instagram</a></b>"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001894/GSFC_20171208_Archive_e001894~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000282/collection.json",
+        "data": [
+          {
+            "album": [
+              "Test"
+            ],
+            "center": "GSFC",
+            "title": "Hubble Friday - Heavy Metal Stars",
+            "location": "Greenbelt, MD",
+            "nasa_id": "GSFC_20171208_Archive_e000282",
+            "media_type": "image",
+            "keywords": [
+              "Hubble Friday - Heavy Metal Stars",
+              "metal",
+              "star",
+              "cluster",
+              "hubble",
+              "ngc6496"
+            ],
+            "date_created": "2017-12-08T00:00:00Z",
+            "description": "Hubble rocks out with heavy metal stars!  This 10.5-billion-year-old globular cluster, NGC 6496, is home to heavy-metal stars of a celestial kind! The stars comprising this spectacular spherical cluster are enriched with much higher proportions of metals — elements heavier than hydrogen and helium are curiously known as metals in astronomy — than stars found in similar clusters.  A handful of these high-metallicity stars are also variable stars, meaning that their brightness fluctuates over time. NGC 6496 hosts a selection of long-period variables — giant pulsating stars whose brightness can take up to, and even over, a thousand days to change — and short-period eclipsing binaries, which dim when eclipsed by a stellar companion.  The nature of the variability of these stars can reveal important information about their mass, radius, luminosity, temperature, composition, and evolution, providing astronomers with measurements that would be difficult or even impossible to obtain through other methods.  NGC 6496 was discovered in 1826 by Scottish astronomer James Dunlop. The cluster resides at about 35,000 light-years away in the southern constellation of Scorpius (The Scorpion).  Image credit: ESA/Hubble &amp; NASA, Acknowledgement: Judy Schmidt Text credit: European Space Agency  Read more: <a href=\"http://go.nasa.gov/1U2wqGW\" rel=\"nofollow\">go.nasa.gov/1U2wqGW</a>"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000282/GSFC_20171208_Archive_e000282~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09204/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09204",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09204/GRC-2019-C-09204~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000118/collection.json",
+        "data": [
+          {
+            "album": [
+              "Test"
+            ],
+            "center": "GSFC",
+            "title": "Hubble Discovery of Runaway Star Yields Clues to Breakup of Multiple-Star System",
+            "location": "Greenbelt, MD",
+            "nasa_id": "GSFC_20171208_Archive_e000118",
+            "media_type": "image",
+            "keywords": [
+              "Hubble Discovery of Runaway Star Yields Clues to Breakup of Multiple-Star System"
+            ],
+            "date_created": "2017-12-08T00:00:00Z",
+            "description": "NASA's Hubble Space Telescope has helped astronomers find the final piece of a celestial puzzle by nabbing a third runaway star.  As British royal families fought the War of the Roses in the 1400s for control of England's throne, a grouping of stars was waging its own contentious skirmish — a star war far away in the Orion Nebula.  The stars were battling each other in a gravitational tussle, which ended with the system breaking apart and at least three stars being ejected in different directions. The speedy, wayward stars went unnoticed for hundreds of years until, over the past few decades, two of them were spotted in infrared and radio observations, which could penetrate the thick dust in the Orion Nebula.  Read more: <a href=\"https://go.nasa.gov/2ni3EZX\" rel=\"nofollow\">go.nasa.gov/2ni3EZX</a>  <b><a href=\"http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html\" rel=\"nofollow\">NASA image use policy.</a></b>  <b><a href=\"http://www.nasa.gov/centers/goddard/home/index.html\" rel=\"nofollow\">NASA Goddard Space Flight Center</a></b> enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA’s accomplishments by contributing compelling scientific knowledge to advance the Agency’s mission.  <b>Follow us on <a href=\"http://twitter.com/NASAGoddardPix\" rel=\"nofollow\">Twitter</a></b>  <b>Like us on <a href=\"http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd\" rel=\"nofollow\">Facebook</a></b>  <b>Find us on <a href=\"http://instagrid.me/nasagoddard/?vm=grid\" rel=\"nofollow\">Instagram</a></b> "
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000118/GSFC_20171208_Archive_e000118~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09129/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Oldham"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09129",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09129/GRC-2019-C-09129~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09149/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "William Fletcher"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09149",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09149/GRC-2019-C-09149~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09150/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "William Fletcher"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09150",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09150/GRC-2019-C-09150~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09160/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Janet Kavandi"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09160",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09160/GRC-2019-C-09160~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09172/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Shawn Ostermann"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09172",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09172/GRC-2019-C-09172~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09195/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Matt Murray"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09195",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09195/GRC-2019-C-09195~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09198/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Cotman"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09198",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09198/GRC-2019-C-09198~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09203/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Janet Kavandi"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09203",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09203/GRC-2019-C-09203~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09205/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melanie Saunders"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09205",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09205/GRC-2019-C-09205~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09209/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09209",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09209/GRC-2019-C-09209~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09210/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09210",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09210/GRC-2019-C-09210~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09211/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09211",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09211/GRC-2019-C-09211~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09212/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09212",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09212/GRC-2019-C-09212~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09216/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09216",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09216/GRC-2019-C-09216~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09222/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09222",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09222/GRC-2019-C-09222~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09223/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09223",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09223/GRC-2019-C-09223~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09225/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09225",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09225/GRC-2019-C-09225~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09228/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09228",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09228/GRC-2019-C-09228~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09232/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Janet Kavandi"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09232",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09232/GRC-2019-C-09232~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09298/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Cotman"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09298",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09298/GRC-2019-C-09298~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09309/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09309",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09309/GRC-2019-C-09309~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09314/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09314",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09314/GRC-2019-C-09314~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09316/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09316",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09316/GRC-2019-C-09316~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09318/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09318",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09318/GRC-2019-C-09318~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09321/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09321",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09321/GRC-2019-C-09321~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09322/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09322",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09322/GRC-2019-C-09322~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09323/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09323",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09323/GRC-2019-C-09323~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09324/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09324",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09324/GRC-2019-C-09324~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09325/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09325",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09325/GRC-2019-C-09325~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09328/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09328",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09328/GRC-2019-C-09328~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09333/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09333",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09333/GRC-2019-C-09333~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09334/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09334",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09334/GRC-2019-C-09334~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09336/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09336",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09336/GRC-2019-C-09336~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09338/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09338",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09338/GRC-2019-C-09338~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09340/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09340",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09340/GRC-2019-C-09340~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09345/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09345",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09345/GRC-2019-C-09345~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09481/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melanie Saunders"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09481",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09481/GRC-2019-C-09481~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09482/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Janet Kavandi"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09482",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09482/GRC-2019-C-09482~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09484/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09484",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09484/GRC-2019-C-09484~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09485/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09485",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09485/GRC-2019-C-09485~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09497/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09497",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09497/GRC-2019-C-09497~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09499/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09499",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09499/GRC-2019-C-09499~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09501/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09501",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09501/GRC-2019-C-09501~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09506/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09506",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09506/GRC-2019-C-09506~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09510/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09510",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09510/GRC-2019-C-09510~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09144/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Oldham"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09144",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09144/GRC-2019-C-09144~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09146/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Bryan Smith"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09146",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09146/GRC-2019-C-09146~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09193/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09193",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09193/GRC-2019-C-09193~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09196/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Dennis Brown"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09196",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09196/GRC-2019-C-09196~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09199/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Cotman"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09199",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09199/GRC-2019-C-09199~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09200/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Cotman"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09200",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09200/GRC-2019-C-09200~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09202/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Janet Kavandi"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09202",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09202/GRC-2019-C-09202~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09206/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09206",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09206/GRC-2019-C-09206~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09208/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09208",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09208/GRC-2019-C-09208~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09213/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09213",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09213/GRC-2019-C-09213~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09214/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09214",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09214/GRC-2019-C-09214~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09224/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09224",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09224/GRC-2019-C-09224~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09226/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09226",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09226/GRC-2019-C-09226~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09229/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09229",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09229/GRC-2019-C-09229~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09231/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09231",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09231/GRC-2019-C-09231~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09305/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melanie Saunders"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09305",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09305/GRC-2019-C-09305~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09310/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09310",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09310/GRC-2019-C-09310~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09313/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09313",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09313/GRC-2019-C-09313~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09315/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09315",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09315/GRC-2019-C-09315~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09330/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09330",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09330/GRC-2019-C-09330~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09342/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09342",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09342/GRC-2019-C-09342~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09483/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09483",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09483/GRC-2019-C-09483~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09486/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09486",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09486/GRC-2019-C-09486~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09493/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09493",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09493/GRC-2019-C-09493~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09500/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09500",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09500/GRC-2019-C-09500~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09507/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09507",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09507/GRC-2019-C-09507~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09508/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09508",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09508/GRC-2019-C-09508~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09509/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09509",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09509/GRC-2019-C-09509~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09197/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "John Cotman"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09197",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09197/GRC-2019-C-09197~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09201/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Janet Kavandi"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09201",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09201/GRC-2019-C-09201~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09207/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09207",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09207/GRC-2019-C-09207~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09215/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09215",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09215/GRC-2019-C-09215~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09227/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09227",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09227/GRC-2019-C-09227~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09230/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09230",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09230/GRC-2019-C-09230~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09307/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09307",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09307/GRC-2019-C-09307~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09308/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09308",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09308/GRC-2019-C-09308~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09312/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09312",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09312/GRC-2019-C-09312~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09317/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09317",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09317/GRC-2019-C-09317~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09319/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "David Avanesian"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09319",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09319/GRC-2019-C-09319~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09320/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09320",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09320/GRC-2019-C-09320~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09329/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09329",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09329/GRC-2019-C-09329~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09331/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09331",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09331/GRC-2019-C-09331~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09332/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Melissa McGuire"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09332",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09332/GRC-2019-C-09332~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      },
+      {
+        "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09335/collection.json",
+        "data": [
+          {
+            "center": "GRC",
+            "title": "Evening With The Stars - 2019",
+            "photographer": "NASA Glenn Research Center",
+            "keywords": [
+              "Evening With The Stars",
+              "Lucas_9116-1",
+              "EWTS",
+              "Diane Linne"
+            ],
+            "location": "NASA Glenn Research Center",
+            "nasa_id": "GRC-2019-C-09335",
+            "date_created": "2019-09-10T00:00:00Z",
+            "media_type": "image",
+            "description": "Evening With The Stars - 2019"
+          }
+        ],
+        "links": [
+          {
+            "href": "https://images-assets.nasa.gov/image/GRC-2019-C-09335/GRC-2019-C-09335~thumb.jpg",
+            "rel": "preview",
+            "render": "image"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "total_hits": 6753
+    },
+    "links": [
+      {
+        "rel": "next",
+        "prompt": "Next",
+        "href": "http://images-api.nasa.gov/search?q=stars&page=2"
+      }
+    ]
+  }
+}
