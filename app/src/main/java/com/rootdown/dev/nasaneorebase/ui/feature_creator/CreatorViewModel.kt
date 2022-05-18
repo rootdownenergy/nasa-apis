@@ -7,25 +7,29 @@ import com.rootdown.dev.nasaneorebase.data.local.entities.CreatorNeoEntity
 import com.rootdown.dev.nasaneorebase.data.model.remote.MediaRoot
 import com.rootdown.dev.nasaneorebase.data.model.remote.Neo
 import com.rootdown.dev.nasaneorebase.data.repo.CreatorRepoImpl
+import com.rootdown.dev.nasaneorebase.di.util.IoDispatcher
 import com.rootdown.dev.nasaneorebase.lib.helpers.DefaultDispatchers
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @HiltViewModel
 class CreatorViewModel @Inject constructor(
-    private val dispatchers: DefaultDispatchers,
+    @IoDispatcher private val dispatcherIO: CoroutineDispatcher,
     private val repo: CreatorRepoImpl
 ): ViewModel() {
 
     private val _uiState = MutableStateFlow(0)
     val uiState = _uiState.asStateFlow()
     //
-    private val _sharedFlowNeo = MutableSharedFlow<Neo>(replay = 1)
+    private val _sharedFlowNeo = MutableSharedFlow<Neo>()
     val sharedFlowNeo = _sharedFlowNeo.asSharedFlow()
+
     private val _sharedFlowMedia = MutableSharedFlow<MediaRoot.Collection.Item.Data>(replay = 1)
     val sharedFlowMedia = _sharedFlowMedia.asSharedFlow()
+
     var creatorMediaFlow: Flow<List<CreatorMediaEntity>>? = null
     var creatorNeoFlow: Flow<List<CreatorNeoEntity>>? = null
 

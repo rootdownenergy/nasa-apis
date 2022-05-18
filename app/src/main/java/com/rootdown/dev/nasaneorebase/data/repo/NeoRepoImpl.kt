@@ -4,6 +4,8 @@ import android.util.Log
 import com.rootdown.dev.nasaneorebase.data.model.remote.Neo
 import com.rootdown.dev.nasaneorebase.data.net.NeoApiService
 import com.rootdown.dev.nasaneorebase.domain.model.Resource
+import kotlinx.coroutines.SupervisorJob
+import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.flow.*
 import java.time.LocalDateTime
 import java.time.ZoneId
@@ -20,6 +22,8 @@ class NeoRepoImpl @Inject constructor(
     var nowInParis: ZonedDateTime = ZonedDateTime.now(ZoneId.of("Europe/Paris"))
     val timex = nowInParis.toOffsetDateTime()
     val xix = timex.toLocalDate()
+
+    val job = SupervisorJob()
 
 
     override suspend fun getNeo(): Resource<List<Neo>> {

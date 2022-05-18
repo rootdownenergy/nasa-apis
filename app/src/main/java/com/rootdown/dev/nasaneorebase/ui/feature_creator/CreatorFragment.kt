@@ -24,6 +24,7 @@ import kotlinx.coroutines.launch
 
 @AndroidEntryPoint
 class CreatorFragment : Fragment() {
+
     private lateinit var binding: FragmentCreatorBinding
     private val vmActivity: CreatorViewModel by activityViewModels()
     private var searchJob: Job? = null

@@ -9,19 +9,25 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
+import androidx.lifecycle.lifecycleScope
 import com.airbnb.epoxy.EpoxyRecyclerView
 import com.google.android.material.snackbar.Snackbar
 import com.rootdown.dev.nasaneorebase.data.model.remote.MediaRoot
 import com.rootdown.dev.nasaneorebase.databinding.FragmentMediaBinding
+import com.rootdown.dev.nasaneorebase.di.util.MainDispatcher
 import com.rootdown.dev.nasaneorebase.media
 import com.rootdown.dev.nasaneorebase.ui.feature_creator.CreatorViewModel
 import dagger.hilt.android.AndroidEntryPoint
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.launch
 
 @AndroidEntryPoint
 class MediaFragment : Fragment() {
     private lateinit var binding: FragmentMediaBinding
     private val vm: MediaViewModel by viewModels()
     private val vmActivity: CreatorViewModel by activityViewModels()
+
+    private var dbSave: Job? = null
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -59,6 +65,12 @@ class MediaFragment : Fragment() {
                 }
             }
             Log.w("UIUI", links.toString())
+        }
+    }
+    private fun mediaSave(){
+        dbSave?.cancel()
+        dbSave = lifecycleScope.launch {
+
         }
     }
 
